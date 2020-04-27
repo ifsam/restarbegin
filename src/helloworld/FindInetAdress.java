@@ -12,6 +12,7 @@ public class FindInetAdress {
 	      String hostname = addr.getHostName();
 	      System.out.println("local host name: "+hostname);
 	      System.out.println("local host name: "+hostname);
+	      System.out.println("local host name: "+hostname);
 	      }
 
 }

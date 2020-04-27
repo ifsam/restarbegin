@@ -13,6 +13,8 @@ public class FindInetAdress {
 	      System.out.println("local host name: "+hostname);
 	      System.out.println("local host name: "+hostname);
 	      System.out.println("local host name: "+hostname);
+	      System.out.println("local host name: "+hostname);
+	      System.out.println("local host name: "+hostname);
 	      }
 
 }
